@@ -5,6 +5,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Projeto simples bancario
+
         boolean podeSair = true;
         System.out.println("Coloque sua digital: ");
         IdDoUsuario idEncontrado = new IdDoUsuario();
